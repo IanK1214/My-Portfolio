@@ -1,2 +1,2 @@
-# My-Portfolio
-# Ian-Kim's-Portfolio
+# My Portfolio
+# Ian Kim's Portfolio
